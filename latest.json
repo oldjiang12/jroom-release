@@ -13,11 +13,11 @@
     "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/win-v1.0.0/JRoom-win-v1.0.0.exe"
   },
   "androidtv": {
-    "version": "1.1.0",
-    "notes": "v1.1.0 大屏视觉与歌词全面重构：修复歌词不显示（优先逐字 JSON+LRC+在线抓词三层兜底）、新增逐字卡拉OK扫字与3种大屏字幕模式、适配 TV 分辨率重做影院质感界面与底部迷你歌词栏、点歌自动进入播放/舞台、支持舞台全屏MV与一键升降调。",
-    "url": "https://music.xgquan.com:8180/dl/JRoomTV-v1.1.0.apk",
-    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/tv-v1.1.0/JRoomTV-v1.1.0.apk",
-    "sha256": "555d7ce197e48d64a2fc1fb03bb9f9b7803e6d3bb5cd2c8da36c9e92d7f3a3b8",
-    "code": 7
+    "version": "1.1.1",
+    "notes": "v1.1.1 电视桌面 Logo 与横幅重做：去除纯黑方块底框，升级为无底框透明悬浮高清图标（最高 384×384，完美适配雷鸟桌面卡片与浅色设置页），同步修复 App 顶栏黑框及 16:9 横幅中文乱码并升至 1280×720 高清。",
+    "url": "https://music.xgquan.com:8180/dl/JRoomTV-v1.1.1.apk",
+    "urlFallback": "https://github.com/auqdnvia/jroom-release/releases/download/tv-v1.1.1/JRoomTV-v1.1.1.apk",
+    "sha256": "280113162857eb3df237992fc24c045cf3ae41270c1be4312f64692eda100c2f",
+    "code": 8
   }
 }
